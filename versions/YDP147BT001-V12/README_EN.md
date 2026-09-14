@@ -31,7 +31,7 @@
 
 OSPTEK **1.47″ 172×320 TFT** is a **SPI** color display module driven by **JD9853**, with capacitive touch (**CST08C**). Suited to handheld devices, narrow information bars, and compact portrait HMI.
 
-Spec ID (repository name): `1.47-tft-172x320-spi-jd9853`
+Spec ID (repository name): `tft-1.47-172x320-spi-jd9853`
 
 Current module version: **YDP147BT001-V12**. Electrical and mechanical details follow [`docs/YDP_147_BT_001_V12_3cf3845d60.pdf`](./docs/YDP_147_BT_001_V12_3cf3845d60.pdf).
 
@@ -58,7 +58,7 @@ Current module version: **YDP147BT001-V12**. Electrical and mechanical details f
 ## Repository layout
 
 ```text
-1.47-tft-172x320-spi-jd9853/                                # repo root (nav: ../../README_EN.md)
+tft-1.47-172x320-spi-jd9853/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP147BT001-V12/                                # full materials for this part number
         ├── README.md
