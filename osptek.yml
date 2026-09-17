@@ -6,6 +6,7 @@ panel: tft
 resolution: 172x320
 interface: [spi]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP147BT001-V12
