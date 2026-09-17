@@ -1,0 +1,14 @@
+id: tft-1.47-172x320-spi-jd9853
+category: displays
+
+size: "1.47"
+panel: tft
+resolution: 172x320
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP147BT001-V12
+    driver: JD9853
+    touch: CST08C
+    note: none
