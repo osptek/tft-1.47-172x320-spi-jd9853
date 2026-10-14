@@ -75,6 +75,7 @@ tft-1.47-172x320-spi-jd9853/                                # 仓库根（导航
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（YDP147BT001-V12） | [`docs/YDP_147_BT_001_V12_3cf3845d60.pdf`](./docs/YDP_147_BT_001_V12_3cf3845d60.pdf) |
+| 3D 图纸（YDP147BT001-V12） | [`docs/YDP147BT001-V12(1).dwg`](./docs/YDP147BT001-V12%281%29.dwg) |
 | 驱动 IC 数据手册（JD9853） | [`docs/JD_9853_DS_Preliminary_V0_00_20230424_161c1b3786.pdf`](./docs/JD_9853_DS_Preliminary_V0_00_20230424_161c1b3786.pdf) |
 | 初始化代码 | [`docs/C_JD9853_BOE1.45_WV015GES-NB80_172x320_230831_johnson.c`](./docs/C_JD9853_BOE1.45_WV015GES-NB80_172x320_230831_johnson.c) |
 | 触摸驱动手册（CST08C） | [`docs/CST_08_C_V1_0_c0ecd3b568.pdf`](./docs/CST_08_C_V1_0_c0ecd3b568.pdf) |
